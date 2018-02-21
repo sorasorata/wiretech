@@ -1,0 +1,40 @@
+#grad1 {
+    height: 280px;
+    background: red; /* For browsers that do not support gradients */
+    background: linear-gradient(to right, #22A7F0, #26C281); /* Standard syntax (must be last) */
+    padding: 1px;
+}
+
+#header {
+	font-size: 70px;
+    padding-top: 40px;
+    color: white;
+    font-family: Tahoma;
+}
+
+.text {
+	font-family: Tahoma;
+	background: #fafafa;
+}
+
+#h2 {
+	padding-top: -6px;
+	color: #f3f3f3;
+}
+
+#h3 {
+	color: #e3e3e3;
+}
+
+.padd {
+	padding-top: 8px;
+}
+
+p {
+	font-size: 18px;
+	padding-left: 10px;
+}
+
+img {
+	width: 100%;
+}
